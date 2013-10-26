@@ -1,3 +1,10 @@
-name: Your New Jekyll Site
+name: Ryan Colwell
 markdown: redcarpet
 pygments: true
+
+
+author:
+ name: Ryan Colwell
+ email: ryan g colwell at the gmailz dot com
+ github: ryanco
+ twitter: ryangcolwell
