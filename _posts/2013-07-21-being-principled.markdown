@@ -10,16 +10,16 @@ One thing I've learned about people in management positions is that they are usu
 
 * **Offering**: Testing all the time is tedious and not coding. 
 * **Response**: Then don't do it.
-- - -
+
 * **Offering**: Writing automated tests slows us down now. 
 * **Response**: Then don't do it.
-- - -
+
 * **Offering**: Building an automated release will make us deliver fewer customer features. 
 * **Response**: Then don't do it.
-- - -
+
 * **Offering**: Learning new technologies is difficult. 
 * **Response**: Then don't do it.
-- - -
+
 
 There's a trend there that you can't blame the pointy-haired boss for. Software development is challenging work on its own and adding in elements of craftsmanship makes it even more challenging. However, most of us started doing this work for the challenge. In most interviews, I hear people say they are most passionate about solving problems. Our goal should always be to deliver quality above all things in those solutions. To be clear, quality doesn't always mean fully-featured, fancy, sexy or sweet. Quality means our work product is reliable and maintainable. We know most of our code is going to need to change. Put the work in now to make the code maintainable in the future. Code that tests, releases and monitors itself will enable the future developer to know if his or her changes broke something quickly. By the way, that future developer is probably you in many cases.
 

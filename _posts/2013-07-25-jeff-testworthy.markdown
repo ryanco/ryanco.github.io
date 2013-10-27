@@ -10,8 +10,6 @@ As such, Jeff Testworthy was born:
 
 ![Jeff Testworthy]({{ site.url }}/img/posts/TDD.png)
 
-* If your software breaks at the first sign of bad data...you might want to look at TDD.
-- - -
 * If you find more bugs in the process of verifying your emergency bug release...you might need more automated testing.
 - - -
 * If it takes you more than two minutes to identify a bug as a "known bug"...you need pay down your tech debt.
