@@ -1,0 +1,19 @@
+.bg-gray {
+	background: #DDDDDD;
+}
+
+.bg-green {
+	background: #669933;
+}
+
+.bg-blue{
+	background: #336699;
+}
+
+.header-font h1, h4{
+	color: #336699;
+}
+
+a, h1, h2, h3, h4{
+	color: #336699;
+}

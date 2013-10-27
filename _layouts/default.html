@@ -8,8 +8,16 @@
 
 		<!-- Bootstrap -->
 		<link href="{{ site.url }}/css/foundation.css" rel="stylesheet">
+		
+		<!-- Custom CSS -->
+		<link href="{{ site.url }}/css/main.css" rel="stylesheet">
+		
 	</head>
 	<body>
+		
+		
+		
+		<!-- Top Navigation -->
 		<nav class="top-bar">
 		  <ul class="title-area">
 		    <!-- Title Area -->
@@ -20,7 +28,7 @@
 		    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
 		  </ul>
 
-		  <section class="top-bar-section">
+		  <section class="top-bar-section bg-green">
 		    <!-- Left Nav Section -->
 		    <ul class="left">
 		    </ul>
@@ -35,36 +43,29 @@
 		  </section>
 		</nav>
 		
+	    <header class="bg-gray header-font">
+	      <div class="row">
+	        <div class="twelve columns">
+	          <h1 class="hide-for-small">{{ site.title }}</h1>
+	          <h4 class="hide-for-small">{{ site.tagline }}</h4>
+	        </div>
+	      </div>
+	    </header>
+		
 		<!-- Main Content Area -->
 		<div class="row">
-		  <div class="small-9 large-centered columns">{{ content }}</div>
+		  <div class="twelve columns">{{ content }}</div>
 		</div>
 		
-		<nav class="top-bar">
-		  <ul class="title-area">
-		    <!-- Title Area -->
-		    <li class="name">
-		      <h1><a href="#">{{ site.name }}</a></h1>
-		    </li>
-		    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-		    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-		  </ul>
-
-		  <section class="top-bar-section">
-		    <!-- Left Nav Section -->
-		    <ul class="left">
-		    </ul>
-
-		    <!-- Right Nav Section -->
-			<ul class="right">
-				<li class="divider hide-for-small"></li>
-				<li><a href="#">Archive</a>
-				<li><a href="#">Books</a>
-				<li><a href="#">About Me</a>
-		  	</ul>
-		  </section>
-		</nav>
-			  
+		
+  	    <footer class="bg-gray header-font">
+  	      <div class="row">
+  	        <div class="twelve columns">
+  	          <h4 class="hide-for-small">{{ site.tagline }}</h4>
+  	        </div>
+  	      </div>
+  	    </foote>
+					  
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="http://code.jquery.com/jquery-latest.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
