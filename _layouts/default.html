@@ -14,7 +14,7 @@
 		  <ul class="title-area">
 		    <!-- Title Area -->
 		    <li class="name">
-		      <h1><a href="#">{{ site.name }}</a></h1>
+		      <h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
 		    </li>
 		    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
 		    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -29,12 +29,13 @@
 			<ul class="right">
 				<li class="divider hide-for-small"></li>
 				<li><a href="#">Archive</a>
-				<li><a href="#">Books</a>
+				<li><a href="{{ site.url }}/Books">Books</a>
 				<li><a href="#">About Me</a>
 		  	</ul>
 		  </section>
 		</nav>
 		
+		<!-- Main Content Area -->
 		<div class="row">
 		  <div class="small-9 large-centered columns">{{ content }}</div>
 		</div>
@@ -49,7 +50,7 @@
 		    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
 		  </ul>
 
-		  <section class="top-bar-section bg-blue">
+		  <section class="top-bar-section">
 		    <!-- Left Nav Section -->
 		    <ul class="left">
 		    </ul>

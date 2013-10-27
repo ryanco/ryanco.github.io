@@ -1,0 +1,12 @@
+name: Ryan Colwell Dev
+markdown: redcarpet
+pygments: true
+
+
+author:
+ name: Ryan Colwell
+ email: ryan g colwell at the gmailz dot com
+ github: ryanco
+ twitter: ryangcolwell
+ 
+url: http://localhost:4000
