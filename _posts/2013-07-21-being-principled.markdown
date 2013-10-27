@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Being Principled
 date: 2013-07-21 00:00:00 
 ---
