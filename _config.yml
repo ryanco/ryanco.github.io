@@ -2,8 +2,9 @@ name: Ryan Colwell
 title: Some Title
 tagline: Phenomenal Technical Powers -- Itty-Bitty Working Space
 footerline: I hate the sea and everything in it.
-markdown: redcarpet
 pygments: true
+markdown: redcarpet
+markdown_ext:  markdown,mkd,mkdn,md
 
 
 author:

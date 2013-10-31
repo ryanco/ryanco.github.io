@@ -8,16 +8,16 @@ I experienced some frustration the last few weeks with some of our "software cra
 
 One thing I've learned about people in management positions is that they are usually more than willing to make decisions for you. I suppose that sounds bad, but in classic command and control organizations that is middle management's role. Individual contributors and senior management throw all their problems at middle management and expect results. It's of little surprise that people put in that situation are prone to making decisions when presented with problems. So if you offer core parts of your craft as impediments, many pointy-haired boss types will quickly remove those for you.
 
-* **Offering**: Testing all the time is tedious and not coding. 
+* **Offering**: Testing all the time is tedious and not coding.
 * **Response**: Then don't do it.
 
-* **Offering**: Writing automated tests slows us down now. 
+* **Offering**: Writing automated tests slows us down now.
 * **Response**: Then don't do it.
 
-* **Offering**: Building an automated release will make us deliver fewer customer features. 
+* **Offering**: Building an automated release will make us deliver fewer customer features.
 * **Response**: Then don't do it.
 
-* **Offering**: Learning new technologies is difficult. 
+* **Offering**: Learning new technologies is difficult.
 * **Response**: Then don't do it.
 
 
