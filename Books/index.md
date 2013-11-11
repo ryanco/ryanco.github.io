@@ -5,7 +5,7 @@ title: Books
 
 ##Continuous Improvement
 * [The Sketchnote Handbook: The Illustrated Guide To Visual Note Taking] (http://www.amazon.com/The-Sketchnote-Handbook-Video-Edition/dp/0321885112/ref=sr_1_1?ie=UTF8&qid=1383876522&sr=8-1&keywords=the+sketchnote+handbook) &#9650;
-* [The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/ref=sr_1_1?s=books&ie=UTF8&qid=1380195697&sr=1-1&keywords=the+phoenix+project) [&#9650;]({{ site.url }}/2013/09/25/The-Phoenix-Project.html)
+* [The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/ref=sr_1_1?s=books&ie=UTF8&qid=1380195697&sr=1-1&keywords=the+phoenix+project) [&#9650;]({{ site.url }}/2013/09/26/The-Phoenix-Project.html)
 * [Six Thinking Hats](http://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/ref=sr_1_1?s=books&ie=UTF8&qid=1369672406&sr=1-1&keywords=six+thinking+hats) &#9660;
 * [Snakes in Suits: When Psychopaths Go to Work](http://www.amazon.com/Snakes-Suits-When-Psychopaths-ebook/dp/B000QUCOAS/ref=tmm_kin_title_0?ie=UTF8&qid=1364861355&sr=1-1) &#9650;
 
