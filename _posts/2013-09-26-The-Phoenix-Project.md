@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Phoenix Project
-date: 2013-09-26 00:00:00
+date: 2013-09-26
 ---
 
 I finished reading [The Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592/ref=sr_1_1?ie=UTF8&qid=1380240538&sr=8-1&keywords=the+phoenix+project) yesterday. Reading might be putting it lightly. I pretty much devoured it after starting it Monday night. I grabbed it off a colleague's shelf Monday after feeling a little beaten down about things. I knew a little bit about the book going in so my hope was that it was going to be a pick-me-up kind of read. Overall, it was a pick-me-up read, although I don't think I was the intended audience of the book. 
