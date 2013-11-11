@@ -8,8 +8,11 @@ A few weeks ago I stumbled upon [Mike Rhode](https://twitter.com/rohdesign) and 
 
 Here are my sketchnotes from [Release It!: Design and Deploy Production-Ready Software] (http://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/ref=sr_1_1?s=books&ie=UTF8&qid=1382909212&sr=1-1&keywords=release+it)
 
+###Full Notes
 ![Full Sketchnote]({{ site.url }}/img/posts/ReleaseItFullSketchNote.jpg)
 
+###Top Half
 ![Top Sketchnote]({{ site.url }}/img/posts/ReleaseItTopSketchNote.jpg)
 
+###Bottom Half
 ![Bottom Sketchnote]({{ site.url }}/img/posts/ReleaseItBottomSketchNote.jpg)
