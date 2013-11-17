@@ -4,14 +4,14 @@ title: Books
 ---
 
 ##Continuous Improvement
-* [The Sketchnote Handbook: The Illustrated Guide To Visual Note Taking] (http://www.amazon.com/The-Sketchnote-Handbook-Video-Edition/dp/0321885112/ref=sr_1_1?ie=UTF8&qid=1383876522&sr=8-1&keywords=the+sketchnote+handbook) &#9650;
+* [The Sketchnote Handbook: The Illustrated Guide To Visual Note Taking] (http://www.amazon.com/The-Sketchnote-Handbook-Video-Edition/dp/0321885112/ref=sr_1_1?ie=UTF8&qid=1383876522&sr=8-1&keywords=the+sketchnote+handbook) [&#9650;]({{ site.url }}/2013/11/10/trying-out-sketchnoting.html)
 * [The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/ref=sr_1_1?s=books&ie=UTF8&qid=1380195697&sr=1-1&keywords=the+phoenix+project) [&#9650;]({{ site.url }}/2013/09/26/The-Phoenix-Project.html)
 * [Six Thinking Hats](http://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/ref=sr_1_1?s=books&ie=UTF8&qid=1369672406&sr=1-1&keywords=six+thinking+hats) &#9660;
 * [Snakes in Suits: When Psychopaths Go to Work](http://www.amazon.com/Snakes-Suits-When-Psychopaths-ebook/dp/B000QUCOAS/ref=tmm_kin_title_0?ie=UTF8&qid=1364861355&sr=1-1) &#9650;
 
 ##Software
 * [Restful Web Services] (http://www.amazon.com/Restful-Web-Services-Leonard-Richardson/dp/0596529260/ref=sr_1_1?ie=UTF8&qid=1383876602&sr=8-1&keywords=restful+web+services)
-* [Release It!: Design and Deploy Production-Ready Software] (http://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/ref=sr_1_1?s=books&ie=UTF8&qid=1382909212&sr=1-1&keywords=release+it) &#9650;
+* [Release It!: Design and Deploy Production-Ready Software] (http://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/ref=sr_1_1?s=books&ie=UTF8&qid=1382909212&sr=1-1&keywords=release+it) [&#9650;]({{ site.url }}/2013/11/10/trying-out-sketchnoting.html)
 * [Taming Text](http://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X/ref=sr_1_1?ie=UTF8&qid=1376783350&sr=8-1&keywords=taming+text) &#9650;
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1?s=books&ie=UTF8&qid=1364861162&sr=1-1&keywords=test+driven+development+by+example) &#9650;  
 * [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](http://www.amazon.com/gp/product/0321601912/ref=oh_details_o09_s00_i00?ie=UTF8&psc=1) &#9650;  

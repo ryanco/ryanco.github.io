@@ -14,6 +14,12 @@
 	color: #336699;
 }
 
+
 a, h1, h2, h3, h4{
 	color: #336699;
+}
+
+img.avatar {
+	width: 64px; 
+	height: 64px;
 }
