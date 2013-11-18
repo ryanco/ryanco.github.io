@@ -6,16 +6,11 @@
 		<title>{{ page.title }}</title>
 		<meta name="viewport" content="width=device-width">
 
-		<!-- Bootstrap -->
-		<link href="{{ site.url }}/css/foundation.css" rel="stylesheet">
-		
-		<!-- Custom CSS -->
-		<link href="{{ site.url }}/css/main.css" rel="stylesheet">
+		<!-- Custom Generated CSS -->
+	    <link rel="stylesheet" href="{{ site.url }}/stylesheets/app.css">
 		
 	</head>
 	<body>
-		
-		
 		
 		<!-- Top Navigation -->
 		<nav class="top-bar">
@@ -57,7 +52,7 @@
 		  <div class="twelve columns">{{ content }}</div>
 		</div>
 		
-		
+		<!-- Footer -->
 		<footer class="bg-gray header-font">
 		  <div class="row">
 			<div class="small-6 large-centered columns">
@@ -69,9 +64,7 @@
 		  </div>
 		</foote>
 					  
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="http://code.jquery.com/jquery-latest.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="{{ site.url }}/js/foundation/foundation.js"></script>
+		<script src="{{ site.url }}/javascripts/vendor/custom.modernizr.js"></script>
 	</body>
 </html>
