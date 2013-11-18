@@ -7303,14 +7303,9 @@ a.th {
   max-width: 800px;
 }
 
-/* line 11, ../sass/app.scss */
-.bg-gray {
-  background: #DDDDDD;
-}
-
 /* line 15, ../sass/app.scss */
-.bg-green {
-  background: #669933;
+.header-bar {
+  background: #dddddd;
 }
 
 /* line 19, ../sass/app.scss */
@@ -7328,8 +7323,8 @@ a, h1, h2, h3, h4 {
   color: #336699;
 }
 
-/* line 32, ../sass/app.scss */
-img.avatar {
+/* line 33, ../sass/app.scss */
+.avatar {
   width: 64px;
   height: 64px;
 }

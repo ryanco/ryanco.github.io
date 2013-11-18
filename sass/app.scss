@@ -8,28 +8,29 @@
 @import "foundation";
 
 
-.bg-gray {
-	background: #DDDDDD;
-}
+//Colors
+$SiteGray: #DDDDDD;
+$SiteBlue: #336699;
 
-.bg-green {
-	background: #669933;
+.header-bar {
+	background: $SiteGray;
 }
 
 .bg-blue{
-	background: #336699;
+	background: $SiteBlue;
 }
 
 .header-font h1, h4{
-	color: #336699;
+	color: $SiteBlue;
 }
 
 
 a, h1, h2, h3, h4{
-	color: #336699;
+	color: $SiteBlue;
 }
 
-img.avatar {
-	width: 64px; 
-	height: 64px;
+
+.avatar {
+		width: 64px; 
+		height: 64px;
 }
