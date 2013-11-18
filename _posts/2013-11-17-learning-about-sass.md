@@ -1,0 +1,11 @@
+---
+layout: post
+title: Learning About Sass
+date: 2013-11-17
+---
+
+###The YouTubes
+In starting to play with [Zurb Foundation](http://foundation.zurb.com/) I decided it would be a good time to start understanding more about [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com/). I also learned about [Compass](http://compass-style.org/) in the process. As I started trying to wrap my head around Compass and Sass, I ran into some videos by Scott at [Level Up Tuts](http://leveluptuts.com/).  More and more, I'm finding YouTube videos to be a good resource for learning new technologies. As someone who grew up "book-learnin," it's hard for me to jump to YouTube right away. I'm usually expecting the written documentation is going to take care of my needs, but it seems many new tools lack the very basic "THIS IS WHAT I AM AND THIS IS HOW TO USE ME" type documentation. I'm grateful people spend the time recording videos about technology after they have invested time learning it.
+
+###Intermediate Languages
+After learning about these technologies today, I am also left wondering about the emergent intermediate languages that are popping up for things like Javascript and CSS. What I've been trying to put together is why are they appearing now when they never did for languages like C, C++ and Java. I suppose we have had code generation tools for those languages for a while, although they seemed to be more of the exception rather than the rule. As someone who has spent most of my career on more backend systems, I've read quite often that Javascript is the new king of the languages. I worry about strengthening my skill set there and learning all the gotchas. Then I spend some time learning about newer front technologies like Sass and TypeScript and I wonder if that is really true. Are the intermediate languages a sign that Javascript really isn't quite there. Maybe the intermediates are more of a crutch for people who want the front end technologies to have less "janky" syntax or more vestigial structure? I'm really not sure, but I find it interested to watch and learn about.
