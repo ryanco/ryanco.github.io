@@ -20,6 +20,7 @@ title: Books
 
 
 ##Leisure
+* [Kill Decision](http://www.audible.com/pd/Mysteries-Thrillers/Kill-Decision-Audiobook/B008HQTIRU)
 * [1Q84](http://www.audible.com/pd/Fiction/1Q84-Audiobook/B005XZM7R6) &#9660;
 * [Foundation](http://www.audible.com/pd/Sci-Fi-Fantasy/Foundation-Audiobook/B003D8W5VS) &#9650;
 * [WWW: Wonder](http://www.audible.com/pd/ref=sr_1_1?asin=B004TTL0QG&qid=1376783298&sr=1-1) &#9650;
