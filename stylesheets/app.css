@@ -7303,28 +7303,49 @@ a.th {
   max-width: 800px;
 }
 
-/* line 15, ../sass/app.scss */
+/* line 17, ../sass/app.scss */
 .header-bar {
   background: #dddddd;
 }
 
-/* line 19, ../sass/app.scss */
+/* line 21, ../sass/app.scss */
 .bg-blue {
   background: #336699;
 }
 
-/* line 23, ../sass/app.scss */
+/* line 25, ../sass/app.scss */
 .header-font h1, h4 {
   color: #336699;
 }
 
-/* line 28, ../sass/app.scss */
+/* line 30, ../sass/app.scss */
 a, h1, h2, h3, h4 {
   color: #336699;
 }
 
-/* line 33, ../sass/app.scss */
+/* line 35, ../sass/app.scss */
 .avatar {
   width: 64px;
   height: 64px;
+}
+
+/* line 40, ../sass/app.scss */
+pre {
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  overflow: auto;
+  width: auto;
+  padding: 5px;
+  background-color: #dddddd;
+  width: 650px;
+  padding-bottom: 20px;
+  max-height: 600px;
+}
+
+/* line 54, ../sass/app.scss */
+code {
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  color: #993333;
 }

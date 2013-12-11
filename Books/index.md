@@ -5,14 +5,15 @@ title: Books
 #My Reading List
 
 ##Continuous Improvement
-* [The Pragmatic Programmer: from Journeyman to Master] (http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* [The Secret Handshake: Mastering the Politics of the Business Inner Circle](http://www.amazon.com/Secret-Handshake-Mastering-Politics-Business-ebook/dp/B004ZZJ8MW)
 * [The Sketchnote Handbook: The Illustrated Guide To Visual Note Taking] (http://www.amazon.com/The-Sketchnote-Handbook-Video-Edition/dp/0321885112) [&#9650;]({{ site.url }}/2013/11/10/trying-out-sketchnoting.html)
 * [The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) [&#9650;]({{ site.url }}/2013/09/26/The-Phoenix-Project.html)
 * [Six Thinking Hats](http://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314) &#9660;
 * [Snakes in Suits: When Psychopaths Go to Work](http://www.amazon.com/Snakes-Suits-When-Psychopaths-ebook/dp/B000QUCOAS) &#9650;
 
 ##Software
-* [Restful Web Services] (http://www.amazon.com/Restful-Web-Services-Leonard-Richardson/dp/0596529260)
+* [The Pragmatic Programmer: from Journeyman to Master] (http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* [Restful Web Services] (http://www.amazon.com/Restful-Web-Services-Leonard-Richardson/dp/0596529260) &#9650;
 * [Release It!: Design and Deploy Production-Ready Software] (http://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213) [&#9650;]({{ site.url }}/2013/11/10/trying-out-sketchnoting.html)
 * [Taming Text](http://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X) &#9650;
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) &#9650;  
@@ -20,7 +21,8 @@ title: Books
 
 
 ##Leisure
-* [Kill Decision](http://www.audible.com/pd/Mysteries-Thrillers/Kill-Decision-Audiobook/B008HQTIRU)
+* [The Picture of Dorian Gray](http://www.audible.com/pd/Classics/The-Picture-of-Dorian-Gray-Audiobook/B002VAEOY0)
+* [Kill Decision](http://www.audible.com/pd/Mysteries-Thrillers/Kill-Decision-Audiobook/B008HQTIRU) &#9650;
 * [1Q84](http://www.audible.com/pd/Fiction/1Q84-Audiobook/B005XZM7R6) &#9660;
 * [Foundation](http://www.audible.com/pd/Sci-Fi-Fantasy/Foundation-Audiobook/B003D8W5VS) &#9650;
 * [WWW: Wonder](http://www.audible.com/pd/ref=sr_1_1?asin=B004TTL0QG&qid=1376783298&sr=1-1) &#9650;
