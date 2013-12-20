@@ -21,7 +21,8 @@ title: Books
 
 
 ##Leisure
-* [The Picture of Dorian Gray](http://www.audible.com/pd/Classics/The-Picture-of-Dorian-Gray-Audiobook/B002VAEOY0)
+* [The Strange Case of Dr. Jekyll and Mr. Hyde](http://www.audible.com/pd/Classics/The-Strange-Case-of-Dr-Jekyll-Mr-Hyde-Audiobook/B002V017TA)
+* [The Picture of Dorian Gray](http://www.audible.com/pd/Classics/The-Picture-of-Dorian-Gray-Audiobook/B002VAEOY0) &#9650;
 * [Kill Decision](http://www.audible.com/pd/Mysteries-Thrillers/Kill-Decision-Audiobook/B008HQTIRU) &#9650;
 * [1Q84](http://www.audible.com/pd/Fiction/1Q84-Audiobook/B005XZM7R6) &#9660;
 * [Foundation](http://www.audible.com/pd/Sci-Fi-Fantasy/Foundation-Audiobook/B003D8W5VS) &#9650;
