@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jeff Testworthy
-date: 2013-07-25
+date: 2013-07-25 00:00:00
 ---
 
 [John](https://johngrekso.wordpress.com/) and I were talking yesterday about creating a persona to express some of our thoughts on unit testing. 
