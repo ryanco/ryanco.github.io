@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lean Startup
-date: 2013-11-30
+date: 2013-11-30 00:00:00
 ---
 
 [The Lean Startup](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6) by Eric Ries

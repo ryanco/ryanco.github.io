@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Dysfunctions Of A Team
-date: 2013-11-26
+date: 2013-11-26 00:00:00
 ---
 
 [5 Dysfunctions Of A Team](http://www.amazon.com/The-Five-Dysfunctions-Team-Leadership-ebook/dp/B006960LQW/ref=tmm_kin_title_0?ie=UTF8&qid=1385347524&sr=1-1) By Patrick Lencioni

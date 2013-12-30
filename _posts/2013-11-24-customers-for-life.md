@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Customers For Life
-date: 2013-11-24
+date: 2013-11-24 00:00:00
 ---
 
 I had a few book reviews in a Google Doc from books I read mostly last year. I thought I would post them here:

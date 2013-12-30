@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When In Doubt -- Re-org
-date: 2013-12-08
+date: 2013-12-08 00:00:00
 ---
 
 During one of my first Re-orgs, the new GM at the time told the following joke before introducing the changes:
