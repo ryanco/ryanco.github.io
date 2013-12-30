@@ -11,9 +11,9 @@ As such, Jeff Testworthy was born:
 ![Jeff Testworthy]({{ site.url }}/img/posts/TDD.png)
 
 * If you find more bugs in the process of verifying your emergency bug release...you might need more automated testing.
-- - -
+-----
 * If it takes you more than two minutes to identify a bug as a "known bug"...you need pay down your tech debt.
-- - -
+<hr/>
 * If you have "known bugs"...fix them.
 - - -
 * If need to run a bunch of manual regression tests in order to close out work...you might need automated testing.
