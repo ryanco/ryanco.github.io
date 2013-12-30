@@ -7306,30 +7306,42 @@ a.th {
 /* line 17, ../sass/app.scss */
 .header-bar {
   background: #dddddd;
+  height: 40px;
 }
 
-/* line 21, ../sass/app.scss */
+/* line 22, ../sass/app.scss */
+.footer-bar {
+  background: #dddddd;
+  height: 70px;
+}
+
+/* line 27, ../sass/app.scss */
 .bg-blue {
   background: #336699;
 }
 
-/* line 25, ../sass/app.scss */
+/* line 31, ../sass/app.scss */
 .header-font h1, h4 {
   color: #336699;
 }
 
-/* line 30, ../sass/app.scss */
+/* line 35, ../sass/app.scss */
+.footer-font h1, h4 {
+  color: #336699;
+}
+
+/* line 39, ../sass/app.scss */
 a, h1, h2, h3, h4 {
   color: #336699;
 }
 
-/* line 35, ../sass/app.scss */
+/* line 43, ../sass/app.scss */
 .avatar {
   width: 64px;
   height: 64px;
 }
 
-/* line 40, ../sass/app.scss */
+/* line 48, ../sass/app.scss */
 pre {
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
@@ -7344,7 +7356,7 @@ pre {
   max-height: 600px;
 }
 
-/* line 54, ../sass/app.scss */
+/* line 62, ../sass/app.scss */
 code {
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   color: #993333;

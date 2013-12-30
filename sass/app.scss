@@ -16,6 +16,12 @@ $SiteGreen: #669933;
 
 .header-bar {
 	background: $SiteGray;
+	height: 40px;
+}
+
+.footer-bar {
+	background: $SiteGray;
+	height: 70px;
 }
 
 .bg-blue{
@@ -26,11 +32,13 @@ $SiteGreen: #669933;
 	color: $SiteBlue;
 }
 
+.footer-font h1, h4{
+	color: $SiteBlue;
+}
 
 a, h1, h2, h3, h4{
 	color: $SiteBlue;
 }
-
 
 .avatar {
 		width: 64px; 
