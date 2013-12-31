@@ -7303,45 +7303,52 @@ a.th {
   max-width: 800px;
 }
 
-/* line 17, ../sass/app.scss */
-.header-bar {
-  background: #dddddd;
-  height: 40px;
-}
-
 /* line 22, ../sass/app.scss */
-.footer-bar {
+.header-bar {
   background: #dddddd;
   height: 70px;
 }
 
 /* line 27, ../sass/app.scss */
+.footer-bar {
+  background: #dddddd;
+  height: 70px;
+}
+
+/* line 32, ../sass/app.scss */
+.vfoot {
+  vertical-align: middle;
+}
+
+/* line 36, ../sass/app.scss */
 .bg-blue {
   background: #336699;
 }
 
-/* line 31, ../sass/app.scss */
-.header-font h1, h4 {
+/* line 40, ../sass/app.scss */
+.header-font {
   color: #336699;
+  font-size: 1.6875em;
 }
 
-/* line 35, ../sass/app.scss */
-.footer-font h1, h4 {
+/* line 45, ../sass/app.scss */
+.footer-font {
   color: #336699;
+  font-size: 1.6875em;
 }
 
-/* line 39, ../sass/app.scss */
+/* line 50, ../sass/app.scss */
 a, h1, h2, h3, h4 {
   color: #336699;
 }
 
-/* line 43, ../sass/app.scss */
+/* line 54, ../sass/app.scss */
 .avatar {
   width: 64px;
   height: 64px;
 }
 
-/* line 48, ../sass/app.scss */
+/* line 59, ../sass/app.scss */
 pre {
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
@@ -7356,8 +7363,39 @@ pre {
   max-height: 600px;
 }
 
-/* line 62, ../sass/app.scss */
+/* line 73, ../sass/app.scss */
 code {
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   color: #993333;
+}
+
+/* line 78, ../sass/app.scss */
+.nav-text {
+  font-size: 1.125em;
+  color: white;
+}
+
+/* line 83, ../sass/app.scss */
+.nav-cont {
+  background: #336699;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+/* line 90, ../sass/app.scss */
+div.middle {
+  display: table-cell;
+  vertical-align: middle;
+  height: 70px;
+}
+
+/* line 96, ../sass/app.scss */
+div.debug {
+  border: 1px solid red;
+}
+
+/* line 99, ../sass/app.scss */
+div.debug2 {
+  border: 1px solid blue;
 }

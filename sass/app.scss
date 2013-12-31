@@ -13,27 +13,38 @@ $SiteGray: #DDDDDD;
 $SiteBlue: #336699;
 $SiteRed:  #993333;
 $SiteGreen: #669933;
+$SiteBlack: #000000;
+$SiteWhite: #FFFFFF;
+
+$HeaderHeight: 70px;
+$FooterHeight: 70px;
 
 .header-bar {
 	background: $SiteGray;
-	height: 40px;
+	height: $HeaderHeight;
 }
 
 .footer-bar {
 	background: $SiteGray;
-	height: 70px;
+	height: $FooterHeight;
+}
+
+.vfoot {
+	vertical-align:middle;
 }
 
 .bg-blue{
 	background: $SiteBlue;
 }
 
-.header-font h1, h4{
+.header-font {
 	color: $SiteBlue;
+	font-size: $h3-font-size;
 }
 
-.footer-font h1, h4{
+.footer-font{
 	color: $SiteBlue;
+	font-size: $h3-font-size;
 }
 
 a, h1, h2, h3, h4{
@@ -62,4 +73,29 @@ pre {
 code {
 	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 	color: $SiteRed;	
+}
+
+.nav-text{
+	font-size: $h5-font-size;
+	color: $SiteWhite;
+}
+
+.nav-cont{
+	background: $SiteBlue;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+div.middle {
+    display: table-cell;
+    vertical-align: middle;
+    height: $FooterHeight;
+}
+
+div.debug{
+	border: 1px solid red;
+}
+div.debug2{
+	border: 1px solid blue;
 }

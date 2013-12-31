@@ -10,10 +10,11 @@ title: Ryan Colwell
     {% include post_detail.html %}
   </div>
   
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <h1>Previous Post</h1>
+  {% if post.previous %}
+      <a rel="prev" href="{{ post.previous.url }}">&larr; {{post.previous.title}}</a>
+  {% endif %}
+  {% if post.next %} 
+      <a rel="next" href="{{ post.next.url }}">{{post.next.title}} &rarr;</a>
+  {% endif %}
 </div>
