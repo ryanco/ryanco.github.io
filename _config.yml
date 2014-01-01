@@ -1,4 +1,5 @@
 name: Ryan Colwell
+description: Ryan Colwell's blog on software development.
 title: Some Title
 tagline: Phenomenal Technical Powers -- Itty-Bitty Working Space
 footerline: I hate the sea and everything in it.
@@ -14,4 +15,4 @@ author:
  twitter: ryangcolwell
  
  
-url: http://ryanco.github.io
+url: http://ryancolwell.com

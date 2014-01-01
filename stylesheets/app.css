@@ -7355,27 +7355,27 @@ pre {
   border-radius: 12px;
   margin-bottom: 10px;
   overflow: auto;
+  display: table;
+  text-align: center;
   width: auto;
   padding: 5px;
   background-color: #dddddd;
-  width: 80%;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-/* line 75, ../sass/app.scss */
+/* line 74, ../sass/app.scss */
 code {
-  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   color: #993333;
 }
 
-/* line 80, ../sass/app.scss */
+/* line 78, ../sass/app.scss */
 .nav-text {
   font-size: 1.125em;
   color: white;
 }
 
-/* line 85, ../sass/app.scss */
+/* line 83, ../sass/app.scss */
 .nav-cont {
   background: #336699;
   padding-top: 5px;
@@ -7383,19 +7383,19 @@ code {
   margin-bottom: 15px;
 }
 
-/* line 92, ../sass/app.scss */
+/* line 90, ../sass/app.scss */
 div.middle {
   display: table-cell;
   vertical-align: middle;
   height: 70px;
 }
 
-/* line 98, ../sass/app.scss */
+/* line 96, ../sass/app.scss */
 div.debug {
   border: 1px solid red;
 }
 
-/* line 101, ../sass/app.scss */
+/* line 99, ../sass/app.scss */
 div.debug2 {
   border: 1px solid blue;
 }
