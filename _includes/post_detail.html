@@ -3,4 +3,7 @@
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 {% endif %}
 </h1>
+{% if post.date %}
+	<p class="meta">{{ post.date | date_to_string }}</p>
+{% endif %}
 <div class="entry-content">{{ content }}</div>

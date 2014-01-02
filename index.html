@@ -4,17 +4,29 @@ title: Ryan Colwell
 ---
 
 <div id="home">  
-  <div class="blog-index">  
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% include post_detail.html %}
-  </div>
-  
-  <h1>Previous Post</h1>
-  {% if post.previous %}
-      <a rel="prev" href="{{ post.previous.url }}">&larr; {{post.previous.title}}</a>
-  {% endif %}
-  {% if post.next %} 
-      <a rel="next" href="{{ post.next.url }}">{{post.next.title}} &rarr;</a>
-  {% endif %}
+	<div class="blog-index">  
+	  {% assign post = site.posts.first %}
+	  {% assign content = post.content %}
+	  {% include post_detail.html %}
+	</div>
+
+	<div class="prev-next-nav">
+		<div class="row">
+			<div class="large-5 columns">
+				{% if post.previous %}
+				<div class="nav-cont">
+					<a class="nav-text" rel="prev" href="{{ post.previous.url }}">&larr; {{post.previous.title}}</a>
+				</div>
+				{% endif %}
+			</div>
+			<div class="large-2 columns"></div>
+			<div class="large-5 columns text-right">
+				{% if post.next %}
+				<div class="nav-cont">
+					<a class="nav-text" rel="next" href="{{ post.next.url }}">{{post.next.title}} &rarr;</a>
+				</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
 </div>

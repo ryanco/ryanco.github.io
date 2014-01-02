@@ -7,3 +7,23 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
+
+<div class="prev-next-nav">
+	<div class="row">
+		<div class="large-5 columns">
+			{% if page.previous %}
+			<div class="nav-cont">
+				<a class="nav-text" rel="prev" href="{{ page.previous.url }}">&larr; {{page.previous.title}}</a>
+			</div>
+			{% endif %}
+		</div>
+		<div class="large-2 columns"></div>
+		<div class="large-5 columns text-right">
+			{% if page.next %}
+			<div class="nav-cont">
+				<a class="nav-text" rel="next" href="{{ page.next.url }}">{{page.next.title}} &rarr;</a>
+			</div>
+			{% endif %}
+		</div>
+	</div>
+</div>
