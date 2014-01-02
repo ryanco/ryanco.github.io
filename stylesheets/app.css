@@ -7316,39 +7316,34 @@ a.th {
 }
 
 /* line 32, ../sass/app.scss */
-.vfoot {
-  vertical-align: middle;
-}
-
-/* line 36, ../sass/app.scss */
 .bg-blue {
   background: #336699;
 }
 
-/* line 40, ../sass/app.scss */
+/* line 36, ../sass/app.scss */
 .header-font {
   color: #336699;
   font-size: 1.6875em;
 }
 
-/* line 45, ../sass/app.scss */
+/* line 41, ../sass/app.scss */
 .footer-font {
   color: #336699;
   font-size: 1.6875em;
 }
 
-/* line 50, ../sass/app.scss */
+/* line 46, ../sass/app.scss */
 a, h1, h2, h3, h4 {
   color: #336699;
 }
 
-/* line 54, ../sass/app.scss */
+/* line 50, ../sass/app.scss */
 .avatar {
   width: 64px;
   height: 64px;
 }
 
-/* line 59, ../sass/app.scss */
+/* line 55, ../sass/app.scss */
 pre {
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
@@ -7364,18 +7359,18 @@ pre {
   padding-bottom: 10px;
 }
 
-/* line 74, ../sass/app.scss */
+/* line 70, ../sass/app.scss */
 code {
   color: #993333;
 }
 
-/* line 78, ../sass/app.scss */
+/* line 74, ../sass/app.scss */
 .nav-text {
   font-size: 1.125em;
   color: white;
 }
 
-/* line 83, ../sass/app.scss */
+/* line 79, ../sass/app.scss */
 .nav-cont {
   background: #336699;
   padding-top: 5px;
@@ -7383,19 +7378,19 @@ code {
   margin-bottom: 15px;
 }
 
-/* line 90, ../sass/app.scss */
+/* line 86, ../sass/app.scss */
 div.middle {
   display: table-cell;
   vertical-align: middle;
   height: 70px;
 }
 
-/* line 96, ../sass/app.scss */
+/* line 92, ../sass/app.scss */
 div.debug {
   border: 1px solid red;
 }
 
-/* line 99, ../sass/app.scss */
+/* line 95, ../sass/app.scss */
 div.debug2 {
   border: 1px solid blue;
 }
