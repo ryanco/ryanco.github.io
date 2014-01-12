@@ -7343,21 +7343,20 @@ a, h1, h2, h3, h4 {
   height: 64px;
 }
 
-/* line 55, ../sass/app.scss */
-ul, ol {
+/* line 56, ../sass/app.scss */
+.entry-content ul, .entry-content ol {
   list-style-position: inside;
   margin-left: 0;
   padding-left: 25px;
 }
 
 /* Code */
-/* line 63, ../sass/app.scss */
-code,
-pre {
+/* line 64, ../sass/app.scss */
+code, pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 
-/* line 66, ../sass/app.scss */
+/* line 67, ../sass/app.scss */
 code {
   padding: .25em .5em;
   font-size: 85%;
@@ -7366,7 +7365,7 @@ code {
   border-radius: 3px;
 }
 
-/* line 73, ../sass/app.scss */
+/* line 74, ../sass/app.scss */
 pre {
   display: block;
   margin-top: 0;
@@ -7381,7 +7380,7 @@ pre {
   background-color: #f9f9f9;
 }
 
-/* line 86, ../sass/app.scss */
+/* line 87, ../sass/app.scss */
 pre code {
   padding: 0;
   font-size: 100%;
@@ -7389,19 +7388,19 @@ pre code {
   background-color: transparent;
 }
 
-/* line 92, ../sass/app.scss */
+/* line 93, ../sass/app.scss */
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
 }
 
-/* line 96, ../sass/app.scss */
+/* line 97, ../sass/app.scss */
 .highlight pre {
   margin-bottom: 0;
 }
 
 /* Quotes */
-/* line 101, ../sass/app.scss */
+/* line 102, ../sass/app.scss */
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
@@ -7409,44 +7408,44 @@ blockquote {
   border-left: .25rem solid #e5e5e5;
 }
 
-/* line 107, ../sass/app.scss */
+/* line 108, ../sass/app.scss */
 blockquote p:last-child {
   margin-bottom: 0;
 }
 
 @media (min-width: 30rem) {
-  /* line 111, ../sass/app.scss */
+  /* line 112, ../sass/app.scss */
   blockquote {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
 }
-/* line 117, ../sass/app.scss */
+/* line 118, ../sass/app.scss */
 .nav-text {
   font-size: 1.125em;
   color: #336699;
 }
 
-/* line 122, ../sass/app.scss */
+/* line 123, ../sass/app.scss */
 .nav-cont {
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 15px;
 }
 
-/* line 128, ../sass/app.scss */
+/* line 129, ../sass/app.scss */
 div.middle {
   display: table-cell;
   vertical-align: middle;
   height: 70px;
 }
 
-/* line 134, ../sass/app.scss */
-div.debug {
+/* line 135, ../sass/app.scss */
+.debug {
   border: 1px solid red;
 }
 
-/* line 137, ../sass/app.scss */
-div.debug2 {
+/* line 138, ../sass/app.scss */
+.debug2 {
   border: 1px solid blue;
 }

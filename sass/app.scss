@@ -52,15 +52,16 @@ a, h1, h2, h3, h4{
 		height: 64px;
 }
 
-ul, ol{
-    list-style-position: inside;
-    margin-left: 0;
-    padding-left: 25px;
+.entry-content{
+	ul, ol{
+	    list-style-position: inside;
+	    margin-left: 0;
+	    padding-left: 25px;
+	}	
 }
 
 /* Code */
-code,
-pre {
+code, pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 code {
@@ -131,9 +132,9 @@ div.middle {
     height: $FooterHeight;
 }
 
-div.debug{
+.debug{
 	border: 1px solid red;
 }
-div.debug2{
+.debug2{
 	border: 1px solid blue;
 }
