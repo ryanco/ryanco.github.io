@@ -52,32 +52,74 @@ a, h1, h2, h3, h4{
 		height: 64px;
 }
 
-pre {
-	-webkit-border-radius: 12px; 
-	-moz-border-radius: 12px; 
-	border-radius: 12px;
-	margin-bottom: 10px;
-	overflow: auto;
-	display: table;
-	text-align: center;
-	width: auto;
-	padding: 5px;
-	background-color: $SiteGray;
-	padding-top: 10px;
-	padding-bottom: 10px;
+ul, ol{
+    list-style-position: inside;
+    margin-left: 0;
+    padding-left: 25px;
 }
 
+/* Code */
+code,
+pre {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+}
 code {
-	color: $SiteRed;	
+  padding: .25em .5em;
+  font-size: 85%;
+  color: #bf616a;
+  background-color: #f9f9f9;
+  border-radius: 3px;
+}
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f9f9f9;
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+.highlight {
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+.highlight pre {
+  margin-bottom: 0;
+}
+
+/* Quotes */
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: .25rem solid #e5e5e5;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30rem) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
 }
 
 .nav-text{
 	font-size: $h5-font-size;
-	color: $SiteWhite;
+	color: $SiteBlue;
 }
 
 .nav-cont{
-	background: $SiteBlue;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	margin-bottom: 15px;
