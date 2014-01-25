@@ -127,6 +127,7 @@ title: Audio Book List
 * The Windup Girl (Unabridged)
 * The Year's Top Ten Tales of Science Fiction (Unabridged)
 * Thunder and Ashes: The Morningstar Strain, Book 2 (Unabridged)
+* Use of Weapons (Unabridged)
 * V for Vendetta (Unabridged)
 * WWW Wake (Unabridged)
 * WWW Watch (Unabridged)
