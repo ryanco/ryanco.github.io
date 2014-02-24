@@ -7,7 +7,6 @@ title: Audio Book List
 
 ###Not Started
 ***
-* A Canticle for Leibowitz (Unabridged)
 * A Fire Upon The Deep
 * Adventures of Huckleberry Finn (Unabridged)
 * Agent to the Stars (Unabridged)
@@ -19,9 +18,6 @@ title: Audio Book List
 * Flight of the Intruder (Unabridged)
 * Flow My Tears, the Policeman Said (Unabridged)
 * Getting to Yes Negotiating Agreement Without Giving In (Unabridged)
-* Great Expectations (Unabridged)
-* Have Space Suit, Will Travel (Unabridged)
-* Heart of Darkness: A Signature Performance by Kenneth Branagh (Unabridged)
 * METAtropolis (Unabridged)
 * Origin (Unabridged)
 * Pandora's Star (Unabridged)
@@ -33,6 +29,7 @@ title: Audio Book List
 * The Adventures of Tom Sawyer (Unabridged)
 * The Colony (Unabridged)
 * The Great Gatsby (Unabridged)
+* The Handmaid's Tale (Unabridged)
 * The Long Earth A Novel (Unabridged)
 * The Sagan Diary (Unabridged)
 * The Speed of Dark (Unabridged)
@@ -47,6 +44,7 @@ title: Audio Book List
 * 1984 New Classic Edition (Unabridged)
 * 1Q84 (Unabridged)
 * 23 Things They Don't Tell You about Capitalism (Unabridged)
+* A Canticle for Leibowitz (Unabridged)
 * Abraham Lincoln: Vampire Hunter (Unabridged)
 * Altered Carbon (Unabridged)
 * American Gods (Unabridged)
@@ -78,6 +76,9 @@ title: Audio Book List
 * Frankenstein The Modern Prometheus (Unabridged)
 * Freakonomics Revised Edition (Unabridged)
 * Freedom (TM) (Unabridged)
+* Great Expectations (Unabridged)
+* Have Space Suit, Will Travel (Unabridged)
+* Heart of Darkness: A Signature Performance by Kenneth Branagh (Unabridged)
 * Hissers (Unabridged)
 * Hunting Season (Unabridged)
 * Hyperion (Unabridged)
