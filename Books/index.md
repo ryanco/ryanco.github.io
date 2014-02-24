@@ -12,7 +12,10 @@ title: My Reading List
 * [The Pragmatic Programmer: from Journeyman to Master] (http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
 ###Leisure
-* [A Canticle for Leibowitz](http://www.audible.com/pd/Sci-Fi-Fantasy/A-Canticle-for-Leibowitz-Audiobook/B005F5ZBRC)
+*[Great Expectations](http://www.audible.com/pd/Classics/Great-Expectations-Audiobook/B002UZJCYI/)
+*[Heart of Darkness](http://www.audible.com/pd/Classics/Heart-of-Darkness-A-Signature-Performance-by-Kenneth-Branagh-Audiobook/B004AFXAZS) &#9650;
+* [Have Space Suit Will Travel](http://www.audible.com/pd/Sci-Fi-Fantasy/Have-Space-Suit-Will-Travel-Audiobook/B00IASC4OO) &#9650;
+* [A Canticle for Leibowitz](http://www.audible.com/pd/Sci-Fi-Fantasy/A-Canticle-for-Leibowitz-Audiobook/B005F5ZBRC) &#9660;
 * [Use of Weapons](http://www.audible.com/pd/Sci-Fi-Fantasy/Use-of-Weapons-Audiobook/B00B505CH0) &#9650;
 * [The Strange Case of Dr. Jekyll and Mr. Hyde](http://www.audible.com/pd/Classics/The-Strange-Case-of-Dr-Jekyll-Mr-Hyde-Audiobook/B002V017TA) &#9650;
 
