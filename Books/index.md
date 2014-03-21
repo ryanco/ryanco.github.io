@@ -4,7 +4,9 @@ title: My Reading List
 ---
 
 ###Continuous Improvement
-* [The Secret Handshake: Mastering the Politics of the Business Inner Circle](http://www.amazon.com/Secret-Handshake-Mastering-Politics-Business-ebook/dp/B004ZZJ8MW)
+* [The Goal: A Process of Ongoing Improvement] (http://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
+* [Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO) &#9650;
+* [The Secret Handshake: Mastering the Politics of the Business Inner Circle](http://www.amazon.com/Secret-Handshake-Mastering-Politics-Business-ebook/dp/B004ZZJ8MW) &#9650;
 * [Orbiting The Giant Hairball](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835) &#9650;
 
 
