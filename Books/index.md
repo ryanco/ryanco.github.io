@@ -4,6 +4,7 @@ title: My Reading List
 ---
 
 ###Continuous Improvement
+* [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook)
 * [The Goal: A Process of Ongoing Improvement] (http://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O) &#9650;
 * [Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO) &#9650;
 * [The Secret Handshake: Mastering the Politics of the Business Inner Circle](http://www.amazon.com/Secret-Handshake-Mastering-Politics-Business-ebook/dp/B004ZZJ8MW) &#9650;
@@ -15,7 +16,8 @@ title: My Reading List
 * [The Pragmatic Programmer: from Journeyman to Master] (http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) &#9650;
 
 ###Leisure
-* [A Fire Upon The Deep](http://www.audible.com/pd/Sci-Fi-Fantasy/A-Fire-Upon-the-Deep-Audiobook/B0036N2C7M)
+* [The Colony](http://www.audible.com/pd/Fiction/The-Colony-Audiobook/B00D3PEMSA)
+* [A Fire Upon The Deep](http://www.audible.com/pd/Sci-Fi-Fantasy/A-Fire-Upon-the-Deep-Audiobook/B0036N2C7M)&#9660;
 * [Great Expectations](http://www.audible.com/pd/Classics/Great-Expectations-Audiobook/B002UZJCYI/) &#9650;
 * [Heart of Darkness](http://www.audible.com/pd/Classics/Heart-of-Darkness-A-Signature-Performance-by-Kenneth-Branagh-Audiobook/B004AFXAZS) &#9650;
 * [Have Space Suit Will Travel](http://www.audible.com/pd/Sci-Fi-Fantasy/Have-Space-Suit-Will-Travel-Audiobook/B00IASC4OO) &#9650;
