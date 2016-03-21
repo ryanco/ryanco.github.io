@@ -3,7 +3,7 @@ description: Ryan Colwell's blog on software development.
 title: Some Title
 tagline: Phenomenal Technical Powers -- Itty-Bitty Working Space
 footerline: I hate the sea and everything in it.
-pygments: true
+highlighter: Pygments
 markdown: redcarpet
 markdown_ext:  markdown,mkd,mkdn,md
 
@@ -13,6 +13,6 @@ author:
  email: ryan g colwell at the gmailz dot com
  github: ryanco
  twitter: ryangcolwell
- 
- 
+
+
 url: http://ryancolwell.com
