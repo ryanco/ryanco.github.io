@@ -3,7 +3,7 @@ layout: reading
 title: My Reading List
 ---
 
-###Continuous Improvement
+### Continuous Improvement
 * [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook)&#9650; <i class="fa fa-thumbs-down"></i>
 * [The Goal: A Process of Ongoing Improvement] (http://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O) &#9650;
 * [Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO) &#9650;
@@ -11,11 +11,11 @@ title: My Reading List
 * [Orbiting The Giant Hairball](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835) &#9650;
 
 
-###Software
+### Software
 * [The Mikado Method](http://www.amazon.com/The-Mikado-Method-Ola-Ellnestam/dp/1617291218)
 * [The Pragmatic Programmer: from Journeyman to Master] (http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) &#9650;
 
-###Leisure
+### Leisure
 * [Earth Abides The 60th Anniversary Edition](http://www.audible.com/pd/Sci-Fi-Fantasy/Earth-Abides-Audiobook/B002VA8N8I)&#9650;
 * [Calculating God](http://www.audible.com/pd/Sci-Fi-Fantasy/Calculating-God-Audiobook/B002V1OL2O)&#9650;
 * [Patient Zero: The Joe Ledger Novels, Book 1](http://www.audible.com/pd/Fiction/Patient-Zero-Audiobook/B0045V31HY)&#9650;

@@ -20,23 +20,23 @@ In addition to software development, one of my interests is organizational desig
 
 In my 10 years as a professional developer, I'd say I've probably been part of at least 20 re-orgs. I would say that 1 in 3 of those re-orgs had some direct impact on my role or team. Here are some of my observations from those experiences across different organizations:
 
-##The Good
+## The Good
 * Most re-orgs seemed aim at addressing some set of problems. Taking action to correct problems is good.
 * Common sense items often get addressed. 
 	* Example:Team A and Team B often need to work together. Before, they had different managers and directors. This caused strife across the teams. Now, they report to the same manager and director to provide more consistent direction.
 * They are change. Change can help give fresh perspective and find new motivation.
 
-##The Bad
+## The Bad
 * They are heavily messaged to be positive changes. They usually offer no accountability on the heavy messaging of their predecessor re-org.
 * They cause a lot of drama. Most of the re-orgs I've seen are "closely guarded secrets" that are leaked like crazy. This often causes fear, uncertainty and doubt.
 * All action is progress. Sometimes re-orgs seem to happen for the reason the opening joke suggests. "Just shake things up."
 
-##The Ugly
+## The Ugly
 * They are sometimes used to relegate people to help "manage them out" of an organization. These types of moves usually come with heavy messaging. They often result in an announcement 3-6 months later of the departure of a person from the organization.
 * Sometimes they come with layoffs or fun events like "everyone gets to re-apply for their job."
 * They often make people feel like they have no ownership for their job or work. "I’m gonna have to ask you to go ahead and move your desk again, so if you could go ahead and get it as far back against that wall as possible, that would be great"
 
-##What I Would Like To See
+## What I Would Like To See
 * Let teams organize organically or at least let them suggest changes. It may be surprising to see what teams develop ("dogs and cats living together... mass hysteria!").
 * Roll changes out inclusively rather than exclusively. The more secret it is the more stress it causes.
 * Talk about accountability. It's okay to admit mistakes were made in the last set of changes or that we learned something somethings we didn't know before.

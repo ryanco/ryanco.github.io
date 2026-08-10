@@ -3,9 +3,9 @@ layout: default
 title: Audio Book List
 ---
 
-##{{ page.title }}
+## {{ page.title }}
 
-###Not Started
+### Not Started
 * Adventures of Huckleberry Finn (Unabridged)
 * Agent to the Stars (Unabridged)
 * Alas, Babylon (Unabridged)
@@ -42,7 +42,7 @@ title: Audio Book List
 * We (Unabridged)
 * Wool Omnibus Edition (Wool 1 - 5) (Unabridged)
 
-###Finished
+### Finished
 * 1984 New Classic Edition (Unabridged)
 * 1Q84 (Unabridged)
 * 23 Things They Don't Tell You about Capitalism (Unabridged)

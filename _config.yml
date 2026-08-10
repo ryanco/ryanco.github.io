@@ -1,18 +1,64 @@
-name: Ryan Colwell
-description: Ryan Colwell's blog on software development.
-title: Some Title
-tagline: Phenomenal Technical Powers -- Itty-Bitty Working Space
-footerline: I hate the sea and everything in it.
-highlighter: rogue
-markdown: redcarpet
-markdown_ext:  markdown,mkd,mkdn,md
+# --- Site ---------------------------------------------------------------
+title: Ryan Colwell
+description: >-
+  Product and engineering leadership in healthcare — writing on delivery,
+  quality, and building teams that operate with confidence.
 
+# Still http: the apex A records point at GitHub's deprecated Pages IPs
+# (192.30.252.153/154), which cannot be issued a TLS certificate. Once they
+# move to 185.199.108–111.153 and "Enforce HTTPS" is on, flip this to https.
+url: http://ryancolwell.com
 
 author:
- name: Ryan Colwell
- email: ryan g colwell at the gmailz dot com
- github: ryanco
- twitter: ryangcolwell
+  name: Ryan Colwell
+  email: ryan.colwell@hey.com
 
+github_username: ryanco
+linkedin_username: ryangcolwell
 
-url: http://ryancolwell.com
+# Consumed by the current Foundation layouts. Both go away in the redesign.
+name: Ryan Colwell
+tagline: Phenomenal Technical Powers -- Itty-Bitty Working Space
+footerline: I hate the sea and everything in it.
+
+# --- Build --------------------------------------------------------------
+# Jekyll's default, stated explicitly: every post URL that is live today ends
+# in .html and must keep doing so. Do not change.
+permalink: date
+
+# MUST stay UTC. Most posts carry `date: YYYY-MM-DD 00:00:00` with no offset,
+# which YAML reads as UTC; rendering those in a west-of-UTC zone rolls them
+# back a day and moves every permalink. GitHub Pages builds in UTC, so this is
+# what produced the URLs that are live — pinning it keeps local builds honest.
+timezone: UTC
+
+# GitHub Pages forces kramdown + rouge regardless of what is written here;
+# these lines exist so a local build matches. (The old redcarpet/"rogue"
+# settings were silently ignored, which is what broke ### headings.)
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Naming `exclude` replaces Jekyll's built-in list, so the toolchain entries
+# have to be repeated here alongside the design-handoff artifacts.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - config.rb
+  - start_dev_server.sh
+  - MIT-LICENSE.txt
+  # Design handoff — kept in the repo for reference, never published.
+  - README.md
+  - Ryan Colwell.dc.html
+  - support.js
+  - screens

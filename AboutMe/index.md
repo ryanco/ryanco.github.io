@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-##{{ page.title }}
+## {{ page.title }}
 
 I'm a software developer in the midwest. I studied Biomedical Engineering in college with a focus on embedded systems development. While I was in school, I was a software tester working with accute care patient monitors and their supporting systems. After graduating, I became a software developer-in-test focusing on automated testing utilities and tools. I got a great education in understanding requirements, writing tests, and documenting systems. I enjoyed working closely with clinians. They taught me about patient care and I taught them about technology. I learned out to effectively test software and how to find good automation opportunities. Overall, having a strong foundation in testing has made be a better software developer.
 
@@ -13,11 +13,11 @@ After a few years, I was given and opportunity to work on a project in a differe
 
 After the successful completion of the project, I decided it was time to move on to a role where I could continue to grow myself and my career path. I decided to venture into a different technology stack while remaining close to the healthcare industry. Currently, I'm working on team that is trying to build a platform for supporting eCommerce across several business units that provide products and services to the senior care and living industry. I'm getting very interested in devops and trying create continous delivery for our software solutions. 
 
-###What I'm Reading
+### What I'm Reading
 * [What I'm Reading Online](http://ryanco.newsblur.com/ "Newsblur")
 * [Books I've Recently Read]({{ site.url }}/books "Books")
 
-###Interests
+### Interests
 * Agile, Scrum, XP practices
 * Organizational Design and Development
 * DevOps, Continous Integration, and Continous Delivery
@@ -30,9 +30,9 @@ After the successful completion of the project, I decided it was time to move on
 * I want to start kayaking next spring.
 
 
-###Projects
+### Projects
 * [My Projects](https://github.com/{{ site.author.github }} "GitHub")
 
-###Links
+### Links
 * [Vizualize Me](http://vizualize.me/ryanco "VisualizeMe")
 * [Twitter](https://twitter.com/{{ site.author.twitter }})
