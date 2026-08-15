@@ -1,4 +1,9 @@
 _site/
 .DS_Store
 .sass-cache
-hyde.py
+.jekyll-cache/
+.jekyll-metadata
+
+# Local bundle install (Gemfile.lock IS committed, for build reproducibility)
+.bundle/
+vendor/

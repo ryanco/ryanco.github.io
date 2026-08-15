@@ -8,11 +8,11 @@ Yesterday I attended the Visual Studio 2013 launch event with several co-workers
 
 I tried my hand at sketchnoting a talk. Due to the lower quality of the of the talks, my sketchnotes got a little snarky. It was still fun to try though.
 
-###Keynote
+### Keynote
 ![Keynote Sketchnote]({{ site.url }}/img/posts/VisualStudio2013Keynote.jpg)
 
-###Accelerating Business Agility
+### Accelerating Business Agility
 ![Top Sketchnote]({{ site.url }}/img/posts/VisualStudio2013BusinessAgility.jpg)
 
-###Introducing Release Management For TFS 2013
+### Introducing Release Management For TFS 2013
 ![Bottom Sketchnote]({{ site.url }}/img/posts/VisualStudio2013ReleaseManager.jpg)

@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
+<article class="post container">
+  <h1 class="post__title">{{ page.title }}</h1>
 
-<div class="reading">
-	{{ content }}
-</div>
+  <div class="post__body">
+    {{ content }}
+  </div>
 
-<div class="row">
-	<div class="small-3 large-centered columns text-center nav-cont">
-		<ul class="inline-list">
-		<li><a class="nav-text" href="{{ site.url }}/Books2014">2014 </a></li>
-		<li><a class="nav-text" href="{{ site.url }}/Books2013">2013 </a></li>
-	</div>
-</div>
+  <nav class="year-nav">
+    <span class="year-nav__label">Reading lists</span>
+    <a href="{{ '/Books' | relative_url }}">Current</a>
+    <a href="{{ '/Books2014' | relative_url }}">2014</a>
+    <a href="{{ '/Books2013' | relative_url }}">2013</a>
+  </nav>
+</article>

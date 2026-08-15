@@ -1,32 +1,7 @@
 ---
-layout: default
+layout: home
 title: Ryan Colwell
+description: >-
+  Product and engineering leadership in healthcare — writing on delivery,
+  quality, and building teams that operate with confidence.
 ---
-
-<div id="home">  
-	<div class="blog-index">  
-	  {% assign post = site.posts.first %}
-	  {% assign content = post.content %}
-	  {% include post_detail.html %}
-	</div>
-
-	<div class="prev-next-nav">
-		<div class="row">
-			<div class="large-5 columns">
-				{% if post.previous %}
-				<div class="nav-cont">
-					<a class="nav-text" rel="prev" href="{{ post.previous.url }}">&larr; {{post.previous.title}}</a>
-				</div>
-				{% endif %}
-			</div>
-			<div class="large-2 columns"></div>
-			<div class="large-5 columns text-right">
-				{% if post.next %}
-				<div class="nav-cont">
-					<a class="nav-text" rel="next" href="{{ post.next.url }}">{{post.next.title}} &rarr;</a>
-				</div>
-				{% endif %}
-			</div>
-		</div>
-	</div>
-</div>

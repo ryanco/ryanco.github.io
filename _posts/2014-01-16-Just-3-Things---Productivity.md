@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just 3 Things - Productivity
+title: Just 3 Things — Productivity
 date: 2014-01-16
 ---
 
@@ -15,7 +15,7 @@ In addition to 3 things, I keep two backlog lists. These lists contain all of th
 	<figcaption>An example of Just 3 Things.</figcaption>
 </figure>
 
-###Rooted in GTD
+### Rooted in GTD
 My little system is mostly rooted in [GTD]("http://www.davidco.com/about-gtd"). I like GTD and I've tried to do it several times. Where I get stuck is I spend more time on the process and trying to get it right than actually getting stuff done. I use many of the concepts:
  
 * Having a trusted place to keep all your stuff. 
@@ -25,8 +25,8 @@ My little system is mostly rooted in [GTD]("http://www.davidco.com/about-gtd"). 
 
 I mostly just wanted something simple and made me feel like I was making progress. Sometimes, with GTD, I felt like I was always just treading water. Just 3 Things lets me see my productivity very easily. 
 
-###Trees and Forest
+### Trees and Forest
 I really dislike the feeling of a day where it seems like I got nothing done. As a senior developer, I get pulled into a lot of meetings. While it is possible for meetings to get things done, it's rare to have a day full of meetings that feels truly productive. I started doing "Just 3 Things" with small tasks as a way to feel productive even if I was in meetings all day. I've found that by planning in the morning before all the meetings start, I know what the appropriate loading for the day is. If I have a very heavy meeting day, I'll make the "things" small. If I have a light meeting day, then I'll pick bigger "things" or scope my "things" bigger. What I like is that system gives me a view in both some tactical and strategic progress.
 
-###Analog
+### Analog
 I've tried both electronic and paper solutions for GTD and Just 3 Things. I've found paper as the most productive. It's much easier in meetings to jot something down in a notebook and not look like a knob who is playing with your phone or computer. I've also found the list sticks with me a little better if I write it down.
