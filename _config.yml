@@ -7,10 +7,10 @@ description: >-
 # description gets used, which is far too long for a title tag.
 tagline: Product &amp; engineering leadership in healthcare
 
-# Still http: the apex A records point at GitHub's deprecated Pages IPs
-# (192.30.252.153/154), which cannot be issued a TLS certificate. Once they
-# move to 185.199.108–111.153 and "Enforce HTTPS" is on, flip this to https.
-url: http://ryancolwell.com
+# Absolute base for canonical tags, feed.xml, and the handful of old posts
+# that still build image paths from `site.url`. Prefer the `relative_url`
+# filter in new markup so pages stay scheme-agnostic.
+url: https://ryancolwell.com
 
 author:
   name: Ryan Colwell
