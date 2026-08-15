@@ -7,7 +7,13 @@
   {% seo %}
   {% feed_meta %}
 
-  <link rel="icon" href="{{ '/img/favicon.ico' | relative_url }}" type="image/x-icon">
+  {%- comment -%}
+    sizes="any" on the .ico keeps SVG-capable browsers from preferring it, so
+    they take the scalable version and everything else falls back cleanly.
+  {%- endcomment -%}
+  <link rel="icon" href="{{ '/img/favicon.ico' | relative_url }}" sizes="any">
+  <link rel="icon" href="{{ '/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ '/img/apple-touch-icon.png' | relative_url }}">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
