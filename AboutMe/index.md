@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: About Me
 ---
-
-## {{ page.title }}
 
 I'm a software developer in the midwest. I studied Biomedical Engineering in college with a focus on embedded systems development. While I was in school, I was a software tester working with accute care patient monitors and their supporting systems. After graduating, I became a software developer-in-test focusing on automated testing utilities and tools. I got a great education in understanding requirements, writing tests, and documenting systems. I enjoyed working closely with clinians. They taught me about patient care and I taught them about technology. I learned out to effectively test software and how to find good automation opportunities. Overall, having a strong foundation in testing has made be a better software developer.
 
@@ -15,7 +13,7 @@ After the successful completion of the project, I decided it was time to move on
 
 ### What I'm Reading
 * [What I'm Reading Online](http://ryanco.newsblur.com/ "Newsblur")
-* [Books I've Recently Read]({{ site.url }}/books "Books")
+* [Books I've Recently Read]({{ '/Books' | relative_url }} "Books")
 
 ### Interests
 * Agile, Scrum, XP practices

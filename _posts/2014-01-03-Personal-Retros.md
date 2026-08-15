@@ -2,6 +2,11 @@
 layout: post
 title: Personal Retros
 date: 2014-01-03
+featured: true
+featured_order: 4
+blurb: >-
+  Running the same inspect-and-adapt loop on yourself that you ask of your
+  teams — and being honest in the write-up.
 ---
 
 I've never been one for New Year's Resolutions. What I have started doing is some personal retrospectives. I tend to do them more than just at the end of the year, but the end of the year is the most formal (I capture it in my journal). I found retrospectives to be a good way for me to see changes that are not always obvious in day-to-day life. I've also found it to be a good way to avoid the feeling of "man I didn't do anything last year."

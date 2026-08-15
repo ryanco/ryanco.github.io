@@ -3,6 +3,9 @@ title: Ryan Colwell
 description: >-
   Product and engineering leadership in healthcare — writing on delivery,
   quality, and building teams that operate with confidence.
+# jekyll-seo-tag appends this to the homepage <title>; without it the whole
+# description gets used, which is far too long for a title tag.
+tagline: Product &amp; engineering leadership in healthcare
 
 # Still http: the apex A records point at GitHub's deprecated Pages IPs
 # (192.30.252.153/154), which cannot be issued a TLS certificate. Once they
@@ -15,11 +18,6 @@ author:
 
 github_username: ryanco
 linkedin_username: ryangcolwell
-
-# Consumed by the current Foundation layouts. Both go away in the redesign.
-name: Ryan Colwell
-tagline: Phenomenal Technical Powers -- Itty-Bitty Working Space
-footerline: I hate the sea and everything in it.
 
 # --- Build --------------------------------------------------------------
 # Jekyll's default, stated explicitly: every post URL that is live today ends

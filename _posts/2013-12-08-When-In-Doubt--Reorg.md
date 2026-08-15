@@ -1,7 +1,17 @@
 ---
 layout: post
-title: When In Doubt -- Re-org
+title: When In Doubt, Re-org
 date: 2013-12-08 00:00:00
+hero: true
+featured: true
+# NOT `category:` -- that is a Jekyll reserved key and `permalink: date`
+# prepends it to the URL, which would move this post off its live address.
+topic: Organizational design
+blurb: >-
+  Twenty reorganizations in ten years. The good ones fix a named problem; the
+  bad ones are messaged as if they did. What I'd want to see instead: organize
+  teams organically, roll change out inclusively, and hold the last set of
+  changes accountable before announcing the next.
 ---
 
 During one of my first Re-orgs, the new GM at the time told the following joke before introducing the changes:

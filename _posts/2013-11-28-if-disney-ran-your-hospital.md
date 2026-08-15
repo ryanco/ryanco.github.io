@@ -2,6 +2,11 @@
 layout: post
 title: If Disney Ran Your Hospital
 date: 2013-11-28 00:00:00
+featured: true
+featured_order: 2
+blurb: >-
+  Courtesy over efficiency, and decentralizing the authority to say yes. Notes
+  on Fred Lee's case for changing culture rather than scripts.
 ---
 
 [If Disney Ran Your Hospital: 9 ½ Things You Would Do Differently](http://www.amazon.com/Disney-Ran-Your-Hospital-Differently/dp/0974386014/) By Fred Lee

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just 3 Things - Productivity
+title: Just 3 Things — Productivity
 date: 2014-01-16
 ---
 

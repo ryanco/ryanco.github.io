@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Being Principled
-date: 2013-07-21 00:00:00 
+date: 2013-07-21 00:00:00
+featured: true
+featured_order: 3
+blurb: >-
+  Practices are cheap to adopt and easy to cargo-cult. Principles are what let
+  a team decide well when the practice doesn't fit.
 ---
 
 I experienced some frustration the last few weeks with some of our "software craftsman" abandoning craftsmanship principles in the face of "the business" telling them to go faster. The responsibility of the business is to always challenge us to go faster. Our responsibility as principled craftsman is to always strive for quality in our work. Quality in our work usually means that the "cost" of development efforts goes up. The cheapest software (in the long run) is the kind we never have to write. We should be striving to write as little code as possible, always be testing, and refactoring. A principled craftsman doesn't offer up his methods as places to remove scope. Instead, we should offer options that remove gold platting. When refactoring, we should be reviewing if a feature is even used. Replacing YesterdaysCoolJSLib with TodaysCoolJSLib isn't insulating us from having to rewrite with TomorrowsCoolJSLib.

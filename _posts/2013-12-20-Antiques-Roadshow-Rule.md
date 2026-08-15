@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Antiques Roadshow Rule
+title: The Antiques Roadshow Rule
 date: 2013-12-20 00:00:00
+featured: true
+featured_order: 5
+blurb: >-
+  What a system is worth has little to do with what it cost to build, and
+  everything to do with what someone will do with it today.
 ---
 
 Often, my wife will put Antiques Roadshow on right before my son is getting read for bed. The two most enjoyable parts of the show are 1.) when people find out something they thought was junk is worth a fortune and 2.) when people think something is worth a fortune and turns out to be worth considerably less. I think 2.) is applicable in the world of corporate software development and I'm coining it the "Antiques Roadshow Rule."

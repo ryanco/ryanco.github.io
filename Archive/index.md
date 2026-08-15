@@ -4,11 +4,18 @@ title: Archive
 ---
 
 ### Posts
-<ul class="no-bullet">
-	{% assign pages_list = site.posts %}
-	{% include page_list.html %}
-</ul>
+
+<div class="archive__grid">
+{%- for node in site.posts %}
+  <a class="archive__item" href="{{ node.url | relative_url }}">
+    <span class="archive__date">{{ node.date | date: "%-d %b %Y" }}</span>
+    <span class="archive__title">{{ node.title }}</span>
+  </a>
+{%- endfor %}
+</div>
 
 ### Reading
-[2013 Books]({{ site.url }}/Books2013)<br/>
-[2014 Books]({{ site.url }}/Books2014)
+
+* [Current reading list]({{ '/Books' | relative_url }})
+* [2014 Books]({{ '/Books2014' | relative_url }})
+* [2013 Books]({{ '/Books2013' | relative_url }})

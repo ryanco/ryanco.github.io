@@ -1,0 +1,111 @@
+---
+layout: default
+---
+{%- assign hero_post = site.posts | where: "hero", true | first -%}
+{%- assign cards = site.posts | where: "featured", true | sort: "featured_order" -%}
+
+<section id="top" class="hero container">
+  <p class="eyebrow">Product &amp; engineering leadership in healthcare</p>
+  <h1 class="hero__title">Turning complexity into practical decisions.</h1>
+  <p class="hero__lede">I lead large product and engineering organizations in healthcare and senior living &mdash; accountable for delivery predictability, quality, and platform strategy. I write here about building teams that operate with confidence, and about what it actually takes to make software reliable in regulated environments.</p>
+  <p class="hero__meta">Associate Principal, Product Management &amp; Strategy at Vizient &middot; Milwaukee, WI</p>
+</section>
+
+<section id="writing" class="writing container">
+  <div class="label-row">
+    <h2 class="label">Writing</h2>
+    <span class="label-aside">Selected</span>
+  </div>
+
+  {%- if hero_post %}
+  <a class="featured" href="{{ hero_post.url | relative_url }}">
+    <div>
+      <span class="featured__category">{{ hero_post.topic }}</span>
+      <h3 class="featured__title">{{ hero_post.title }}</h3>
+    </div>
+    <div>
+      <p class="featured__blurb">{{ hero_post.blurb }}</p>
+      <p class="featured__meta">{{ hero_post.date | date: "%-d %b %Y" }} &middot; Read &rarr;</p>
+    </div>
+  </a>
+  {%- endif %}
+
+  <div class="card-grid">
+    {%- for post in cards -%}
+      {%- unless post.hero -%}
+        {%- include post-card.html post=post -%}
+      {%- endunless -%}
+    {%- endfor -%}
+  </div>
+
+  <details class="archive">
+    <summary>
+      <span class="archive__summary">
+        <span class="archive__pill">
+          <span class="archive__label archive__label--closed">Browse full archive</span>
+          <span class="archive__label archive__label--open">Hide full archive</span>
+        </span>
+        <span class="archive__count">
+          {{ site.posts | size }} posts, {{ site.posts.last.date | date: "%Y" }}&ndash;{{ site.posts.first.date | date: "%Y" }}
+        </span>
+      </span>
+    </summary>
+    <div class="archive__grid">
+      {%- for post in site.posts %}
+      <a class="archive__item" href="{{ post.url | relative_url }}">
+        <span class="archive__date">{{ post.date | date: "%-d %b %Y" }}</span>
+        <span class="archive__title">{{ post.title }}</span>
+      </a>
+      {%- endfor %}
+    </div>
+  </details>
+</section>
+
+<section id="about" class="section container">
+  <h2 class="label" style="margin-bottom: 48px">About</h2>
+  <div class="about__grid">
+    <div class="about__aside">
+      <img class="about__photo" src="{{ '/img/ryan-colwell.jpeg' | relative_url }}" alt="Ryan Colwell" width="400" height="400">
+      <div class="about__contact">
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">linkedin.com/in/{{ site.linkedin_username }}</a>
+        <a href="https://github.com/{{ site.github_username }}">github.com/{{ site.github_username }}</a>
+      </div>
+    </div>
+    <div>
+      <p class="about__quote">I'm a senior product and technology leader who builds organizations that deliver &mdash; reliably, at scale, and with purpose.</p>
+      <p class="about__body">My work focuses on turning complexity into durable systems: teams that operate with confidence, products that unlock real customer value, and platforms that compound improvement over time. I'm known for bringing order to chaos &mdash; establishing predictable delivery, making quality a first-class engineering responsibility, and building governance models that scale without slowing people down.</p>
+      <p class="about__body">A defining principle in my leadership is being AI-first, but not AI for AI's sake. I use AI where it meaningfully expands capability &mdash; automating expert judgment, improving compliance, and unlocking outcomes that weren't practical before &mdash; rather than as a novelty. Twenty-five years in regulated healthcare, from patient monitors at GE to AI-driven platforms in senior living, taught me that the interesting problem is rarely the technology.</p>
+
+      <div class="timeline">
+        {%- for row in site.data.timeline %}
+        <div class="timeline__row">
+          <span class="timeline__when">{{ row.when }}</span>
+          <div>
+            <div class="timeline__role">{{ row.role }}</div>
+            {%- if row.detail %}
+            <div class="timeline__detail">{{ row.detail }}</div>
+            {%- endif %}
+          </div>
+        </div>
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="reading" class="section container">
+  <div class="label-row">
+    <h2 class="label">Reading</h2>
+    <span class="label-aside">Books worth the time</span>
+  </div>
+  <div class="reading__grid">
+    {%- for book in site.data.reading %}
+    <div class="reading__item">
+      <div class="reading__title">{{ book.title }}</div>
+      <div class="reading__author">{{ book.author }}</div>
+      <p class="reading__note">{{ book.note }}</p>
+    </div>
+    {%- endfor %}
+  </div>
+</section>

@@ -3,6 +3,11 @@ layout: post
 title:  "Tech Conference Talk Anti-Patterns"
 date:   2013-06-09 00:00:00
 categories: Conferences AgileWest
+featured: true
+featured_order: 1
+blurb: >-
+  War stories, walls of text, and eighty percent spent restating the problem
+  — plus the audience habits that waste a room's time.
 ---
 
 I just returned from [Agile West](http://adc-bsc-west.techwell.com/). During the first few days of tutorials I started thinking about some anti-patterns I see at the conferences I attend. I wanted to capture some of these thoughts for my own reference later.

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: Audio Book List
 ---
-
-## {{ page.title }}
 
 ### Not Started
 * Adventures of Huckleberry Finn (Unabridged)

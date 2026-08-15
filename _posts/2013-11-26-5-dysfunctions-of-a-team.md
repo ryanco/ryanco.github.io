@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Dysfunctions Of A Team
+title: The Five Dysfunctions of a Team
 date: 2013-11-26 00:00:00
 ---
 

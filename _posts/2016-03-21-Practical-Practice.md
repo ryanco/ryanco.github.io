@@ -2,6 +2,11 @@
 layout: post
 title: Practical Practice
 date: 2016-03-21
+featured: true
+featured_order: 6
+blurb: >-
+  Mastery rarely comes from rote exercises. It comes from iterating on real
+  work you care about — in code or anywhere else.
 ---
 
 I had a shower-thought the other day that was a bit of an epiphany for me.
